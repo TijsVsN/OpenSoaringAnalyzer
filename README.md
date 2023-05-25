@@ -26,3 +26,5 @@ Contributions are welcome! If you want to contribute to OpenSoaringAnalyzer, fee
 ## License
 
 OpenSoaringAnalyzer is open-source software licensed under the MIT license. Feel free to use, modify, and distribute the code.
+
+> :warning: May not work with all GPX files! Currently tested with GPXs from [XCsoar](https://github.com/XCSoar/XCSoar) and [SimFlightPath](https://flightsim.to/file/15872/simflightpath)
